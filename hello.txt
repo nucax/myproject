@@ -1,0 +1,2 @@
+hi this is the first time to commit with git!
+when setup, this is much easier to program. i never knew this!! :/
